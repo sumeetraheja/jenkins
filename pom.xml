@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>uk.co.argos.middleware</groupId>
-  <artifactId>jenkins-job</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>jenkins2-job</artifactId>
+  <version>1.0</version>
 
   <dependencies>
     <dependency>

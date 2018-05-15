@@ -6,11 +6,13 @@ ciJobs = [
         new CiPipeLineBuilderDev([projectName: "aura-nectar-points-redemption-ms",  marathonEnv: 'PF_STAGING',  memory: '2048',  runSoapUiTests: 'true', description: 'Nectarpoints request and response transactions']),
         new CiPipeLineBuilderDev([projectName: "aura-compass-address-service-ms",  marathonEnv: 'PF_STAGING',  memory: '2048',  runSoapUiTests: 'true', description: 'CMO6 Aura to Comapss delivery update request and response']),
         new CiPipeLineBuilderDev([projectName: "aura-compass-deliverydate-update-ms",  marathonEnv: 'PF_STAGING',  memory: '2048',  runSoapUiTests: 'true', description: 'CMO6 Aura to Comapss delivery update request and response']),
+        new CiPipeLineBuilderDev([projectName: "aura-compass-stock-enquiry-ms",  marathonEnv: 'PF_STAGING',  memory: '2048',  runSoapUiTests: 'true', description: 'CMO1 Aura to Comapss stock enquiry request and response']),
         new CiPipeLineBuilderDev([projectName: "aura-compass-order-update-ms",  marathonEnv: 'PF_STAGING',  memory: '2048',  runSoapUiTests: 'true', description: 'CM07 Compass Order Update Request/Response']),
         new CiPipeLineBuilderDev([projectName: "aura-compass-product-item-update-ms", description: 'Compass Product Item Update Request/Response']),
 		new CiPipeLineBuilderDev([projectName: "afs-tsys-estatements-ms", marathonEnv: 'AWS_DEV',  memory: '2048', isDnsHackEnabled: 'Y', description: 'AFS to TSYS E-Statements MicroService', isDockerFileProvided: 'TRUE']),
 		new CiPipeLineBuilderDev([projectName: "afs-tsys-estatements-stub-ms", marathonEnv: 'AWS_DEV',  memory: '2048',  description: 'AFS to TSYS E-Statements stub mocking TSYS']),
 		new CiPipeLineBuilderDev([projectName: "afs-smtp-email-service-ms", marathonEnv: 'AWS_DEV',  memory: '2048',  description: 'AFS to SMTP email service']),
+		new CiPipeLineBuilderDev([projectName: "afs-mgage-sms-service-ms", marathonEnv: 'AWS_DEV',  memory: '2048',  description: 'AFS to mGage sms service']),
 
         //C
         new CiPipeLineBuilderDev([projectName: "compass-stockenquiry-ms", description: 'Compass Stock Enquiry Request', isDnsHackEnabled: 'Y']),

@@ -1,7 +1,7 @@
 import uk.co.argos.middleware.*
 
 
-String pipeBasePath = 'build-jobs-dev'
+String pipeBasePath = 'middleware-jobs-dev'
 String viewName = 'DEV-JOBS-VIEW'
 
 folder(pipeBasePath) {

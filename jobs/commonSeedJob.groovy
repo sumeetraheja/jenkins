@@ -1,6 +1,6 @@
 import uk.co.argos.middleware.*
 
-String pipeBasePath = 'build-jobs-commons'
+String pipeBasePath = 'middleware-jobs-commons'
 
 String viewName = 'COMMONS-VIEW'
 

@@ -1,6 +1,6 @@
 import uk.co.argos.middleware.*
 
-String pipeBasePath = 'build-jobs-staging'
+String pipeBasePath = 'middleware-jobs-staging'
 String namespace = 'middleware'
 
 String viewName = 'STAGE-JOBS-VIEW'
