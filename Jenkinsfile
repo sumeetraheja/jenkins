@@ -16,9 +16,7 @@ pipeline {
   //   }
 
     stage('Build  Jenkins job item') {
-      agent {
-        label 'ec2'
-      }
+
       steps {
         script {
           if (( env.BRANCH_NAME == 'master' ) || ( env.BRANCH_NAME == 'devops-private')) {
