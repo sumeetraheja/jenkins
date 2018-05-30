@@ -118,6 +118,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/microservices/projects-list-common.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
