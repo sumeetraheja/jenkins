@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e450d3a-a765-44c6-acd1-f1bc66ed901e" name="Default" comment="" />
+    <list default="true" id="4e450d3a-a765-44c6-acd1-f1bc66ed901e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/commonSeedJob.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/devSeedJob.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/prodSeedJob.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/stageSeedJob.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21$_closure22$_closure23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21$_closure22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5$_closure11$_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5$_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure6$_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15$_closure16$_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15$_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure8$_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure9$_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27$_closure28.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27$_closure29.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure25$_closure30.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure25.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure26$_closure31.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iml" afterPath="$PROJECT_DIR$/jenkins2-job.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.ipr" afterPath="$PROJECT_DIR$/jenkins2-job.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iws" afterPath="$PROJECT_DIR$/jenkins2-job.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -184,61 +225,8 @@
       <file leaf-file-name="CiCommonBuilder.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <marker date="1527773967300" expanded="true" signature="342:422" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="429:641" ph="/**...*/" />
-                <marker date="1527773967300" expanded="true" signature="690:4193" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="953:4187" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="1052:1070" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="1100:1114" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="1201:1219" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="1231:1245" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="1335:1597" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="1357:1583" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="1423:1565" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="1669:1956" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="1879:1901" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="1924:1942" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="1980:2760" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="2062:2138" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="2281:2746" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="2394:2724" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="2484:2518" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="2573:2603" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="2780:3114" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="2846:3100" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="3301:3500" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="3330:3486" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="3575:4177" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="3691:3838" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="3948:4163" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4000:4145" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4037:4067" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="4096:4122" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="4197:4408" ph="/**...*/" />
-                <marker date="1527773967300" expanded="true" signature="4458:6294" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4634:6288" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4723:5399" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4787:5385" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="4853:5134" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="5216:5367" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="5471:5758" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="5681:5703" ph="{" />
-                <marker date="1527773967300" expanded="true" signature="5726:5744" ph="}" />
-                <marker date="1527773967300" expanded="true" signature="5778:6278" ph="{...}" />
-                <marker date="1527773967300" expanded="true" signature="5844:6264" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="commonSeedJob.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jobs/commonSeedJob.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -254,16 +242,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildPropertiesDev.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/buildPropertiesDev.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
@@ -274,31 +252,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="291">
+              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="idea.gdsl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/idea.gdsl">
+      <file leaf-file-name="co.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jobs/co.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="idea.gdsl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/idea.gdsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -322,6 +290,7 @@
       <find>address-ms-test</find>
       <find>folder</find>
       <find>createTestJob</find>
+      <find>javaposse</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -345,8 +314,10 @@
         <option value="$PROJECT_DIR$/jobs/devSeedJob.groovy" />
         <option value="$PROJECT_DIR$/jobs/prodSeedJob.groovy" />
         <option value="$PROJECT_DIR$/jobs/stageSeedJob.groovy" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Jenkinsfile" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jobs/co.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" />
       </list>
     </option>
   </component>
@@ -364,6 +335,48 @@
     <option name="ADD_LABEL_ON_DEBUGGING" value="true" />
     <option name="ADD_LABEL_ON_UNIT_TEST_PASSED" value="true" />
     <option name="ADD_LABEL_ON_UNIT_TEST_FAILED" value="true" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jenkins2-job" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jenkins2-job" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jenkins2-job" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="PerforceConfiguration">
     <option name="PORT" value="magic:1666" />
@@ -417,6 +430,16 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins2-job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="jenkins2-job" />
@@ -556,11 +579,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.59770113" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jobs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -958,11 +982,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34044716" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38764644" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52715653" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32747602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -981,6 +1005,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette " active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1071,14 +1096,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jobs/devSeedJob.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jobs/prodSeedJob.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1107,14 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.65/job-dsl-core-1.65.jar!/javaposse/jobdsl/dsl/DslFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1166,57 +1175,6 @@
         <state relative-caret-position="225">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1527773967300" expanded="true" signature="342:422" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="429:641" ph="/**...*/" />
-            <marker date="1527773967300" expanded="true" signature="690:4193" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="953:4187" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="1052:1070" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="1100:1114" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="1201:1219" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="1231:1245" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="1335:1597" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="1357:1583" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="1423:1565" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="1669:1956" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="1879:1901" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="1924:1942" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="1980:2760" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="2062:2138" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="2281:2746" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="2394:2724" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="2484:2518" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="2573:2603" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="2780:3114" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="2846:3100" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="3301:3500" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="3330:3486" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="3575:4177" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="3691:3838" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="3948:4163" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4000:4145" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4037:4067" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="4096:4122" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="4197:4408" ph="/**...*/" />
-            <marker date="1527773967300" expanded="true" signature="4458:6294" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4634:6288" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4723:5399" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4787:5385" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="4853:5134" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="5216:5367" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="5471:5758" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="5681:5703" ph="{" />
-            <marker date="1527773967300" expanded="true" signature="5726:5744" ph="}" />
-            <marker date="1527773967300" expanded="true" signature="5778:6278" ph="{...}" />
-            <marker date="1527773967300" expanded="true" signature="5844:6264" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1515,10 +1473,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.65/job-dsl-core-1.65.jar!/javaposse/jobdsl/dsl/DslFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="291">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/co.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1581,7 +1563,6 @@
             <option name="proportions">
               <list>
                 <option value="0.59770113" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1589,10 +1570,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: commons-codec:commons-codec:1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.59770113" />
               </list>
             </option>
           </splitter-proportions>

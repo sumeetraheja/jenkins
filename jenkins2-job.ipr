@@ -20,6 +20,17 @@
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jenkins2-job" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jenkins2-job" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="ExportToHTMLSettings">
     <option name="PRINT_LINE_NUMBERS" value="false" />
@@ -73,9 +84,16 @@
     <option name="languageVersion" value="1.1" />
     <option name="apiVersion" value="1.1" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module filepath="$PROJECT_DIR$/jenkins2-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkins2-job.iml" filepath="$PROJECT_DIR$/jenkins2-job.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
@@ -120,6 +138,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/jobs/co.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy">
           <value>
             <set />
@@ -150,7 +173,80 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: commons-codec:commons-codec:1.8">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.8/commons-codec-1.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.8/commons-codec-1.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.8/commons-codec-1.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.codehaus.groovy:groovy-all:2.4.11">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.11/groovy-all-2.4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.11/groovy-all-2.4.11-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.11/groovy-all-2.4.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.codehaus.groovy:groovy-backports-compat23:2.4.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-backports-compat23/2.4.5/groovy-backports-compat23-2.4.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-backports-compat23/2.4.5/groovy-backports-compat23-2.4.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-backports-compat23/2.4.5/groovy-backports-compat23-2.4.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.jenkins-ci.plugins:job-dsl-core:1.69">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.69/job-dsl-core-1.69.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.69/job-dsl-core-1.69-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.69/job-dsl-core-1.69-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.jvnet.hudson:xstream:1.4.7-jenkins-1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/xstream/1.4.7-jenkins-1/xstream-1.4.7-jenkins-1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/xstream/1.4.7-jenkins-1/xstream-1.4.7-jenkins-1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/xstream/1.4.7-jenkins-1/xstream-1.4.7-jenkins-1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: xmlunit:xmlunit:1.4">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.4/xmlunit-1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.4/xmlunit-1.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.4/xmlunit-1.4-sources.jar!/" />
+      </SOURCES>
+    </library>
   </component>
 </project>

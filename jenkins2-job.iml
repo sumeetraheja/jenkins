@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module relativePaths="false" type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" relativePaths="false" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <exclude-output />
     <orderEntry type="inheritedJdk" />
@@ -15,13 +15,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.15/groovy-all-2.4.15.jar!/" />
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-backports-compat23/2.4.5/groovy-backports-compat23-2.4.5.jar!/" />
         </CLASSES>
       </library>
@@ -29,7 +22,14 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.65/job-dsl-core-1.65.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-all/2.4.11/groovy-all-2.4.11.jar!/" />
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/plugins/job-dsl-core/1.69/job-dsl-core-1.69.jar!/" />
         </CLASSES>
       </library>
     </orderEntry>
