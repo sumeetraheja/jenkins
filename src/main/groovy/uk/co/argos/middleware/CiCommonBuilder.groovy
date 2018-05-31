@@ -5,6 +5,7 @@ import javaposse.jobdsl.dsl.DslFactory
 /**
  * Class for creating a Jenkins Job for common projects using Jenkins DSL
  */
+@groovy.transform.InheritConstructors
 class CiCommonBuilder  {
 
     String gitBranch = "master"
