@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e450d3a-a765-44c6-acd1-f1bc66ed901e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jobs-ori/commonAllEnvSeedJob.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jobs-ori/commonSeedJob.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jobs-ori/prodSeedJob.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jobs-ori/stageSeedJob.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/AbstractMiddlewareJobBuilder.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiCommonBuilder.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiPipeLineBuilderCommonAllEnv.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiPipeLineBuilderDev.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiPipeLineBuilderProd.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiPipeLineBuilderStage.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy" afterPath="$PROJECT_DIR$/jobs-ori/commonAllEnvSeedJob.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jobs/devSeedJob.groovy" afterPath="$PROJECT_DIR$/jobs-ori/devSeedJob.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jobs/prodSeedJob.groovy" afterPath="$PROJECT_DIR$/jobs-ori/prodSeedJob.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jobs/stageSeedJob.groovy" afterPath="$PROJECT_DIR$/jobs-ori/stageSeedJob.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jenkins2-job-1.0.jar" afterPath="$PROJECT_DIR$/target/jenkins2-job-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.ipr" afterPath="$PROJECT_DIR$/jenkins2-job.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iws" afterPath="$PROJECT_DIR$/jenkins2-job.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,8 +186,8 @@
       <file leaf-file-name="CiCommonBuilder.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+            <state relative-caret-position="480">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -1235,8 +1216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+        <state relative-caret-position="480">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding />
         </state>
       </provider>
