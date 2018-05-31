@@ -83,7 +83,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module filepath="$PROJECT_DIR$/jenkins2-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkins2-job.iml" filepath="$PROJECT_DIR$/jenkins2-job.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
