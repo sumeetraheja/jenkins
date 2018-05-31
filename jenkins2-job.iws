@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e450d3a-a765-44c6-acd1-f1bc66ed901e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iws" afterPath="$PROJECT_DIR$/jenkins2-job.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs/commonSeedJob.groovy" afterPath="$PROJECT_DIR$/jobs/commonSeedJob.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,7 +194,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commonSeedJob.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="commonSeedJob.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jobs/commonSeedJob.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -246,11 +246,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="248">
+              <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -286,9 +286,9 @@
         <option value="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy" />
         <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiCommonBuilder.groovy" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" />
         <option value="$PROJECT_DIR$/jobs/commonSeedJob.groovy" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -1157,14 +1157,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1196,6 +1188,14 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
