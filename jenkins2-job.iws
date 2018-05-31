@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e450d3a-a765-44c6-acd1-f1bc66ed901e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/commonSeedJob.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/devSeedJob.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/prodSeedJob.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jobs/stageSeedJob.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21$_closure22$_closure23.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21$_closure22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10$_closure21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5$_closure11$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5$_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure6$_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15$_closure16$_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15$_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7$_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure8$_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure9$_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createBuildJob_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27$_closure28.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27$_closure29.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24$_closure27.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure24.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure25$_closure30.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure25.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure26$_closure31.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2$_closure26.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/uk/co/argos/middleware/CiCommonBuilder$_createReleaseJob_closure2.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iml" afterPath="$PROJECT_DIR$/jenkins2-job.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.ipr" afterPath="$PROJECT_DIR$/jenkins2-job.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins2-job.iws" afterPath="$PROJECT_DIR$/jenkins2-job.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -252,17 +213,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="co.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="co.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jobs/co.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -982,11 +943,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34044716" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18743344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52715653" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258786" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32747602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1481,14 +1442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1501,6 +1454,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>

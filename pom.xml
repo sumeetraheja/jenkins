@@ -18,32 +18,32 @@
       <artifactId>groovy-all</artifactId>
       <version>2.4.11</version>
     </dependency>
-    <dependency>
-      <groupId>org.codehaus.groovy</groupId>
-      <artifactId>groovy-backports-compat23</artifactId>
-      <version>2.4.5</version>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>org.codehaus.groovy</groupId>-->
+      <!--<artifactId>groovy-backports-compat23</artifactId>-->
+      <!--<version>2.4.5</version>-->
+    <!--</dependency>-->
   </dependencies>
 
 
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.codehaus.gmavenplus</groupId>
-        <artifactId>gmavenplus-plugin</artifactId>
-        <version>1.5</version>
-        <executions>
-          <execution>
-            <goals>
-              <goal>addSources</goal>
-              <goal>addTestSources</goal>
-              <goal>compile</goal>
-              <goal>testCompile</goal>
-            </goals>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-  </build>
+  <!--<build>-->
+    <!--<plugins>-->
+      <!--<plugin>-->
+        <!--<groupId>org.codehaus.gmavenplus</groupId>-->
+        <!--<artifactId>gmavenplus-plugin</artifactId>-->
+        <!--<version>1.5</version>-->
+        <!--<executions>-->
+          <!--<execution>-->
+            <!--<goals>-->
+              <!--<goal>addSources</goal>-->
+              <!--<goal>addTestSources</goal>-->
+              <!--<goal>compile</goal>-->
+              <!--<goal>testCompile</goal>-->
+            <!--</goals>-->
+          <!--</execution>-->
+        <!--</executions>-->
+      <!--</plugin>-->
+    <!--</plugins>-->
+  <!--</build>-->
 
 </project>
