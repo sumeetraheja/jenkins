@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 pipeline {
-  agent any
+  agent none
 
   stages {
 
@@ -8,11 +8,17 @@ pipeline {
     stage('Build  Jenkins job item') {
 
       steps {
-
+        script {
+          if (( env.BRANCH_NAME == 'master' ) || ( env.BRANCH_NAME == 'devops-private')) {
             // Checkout the branch.
             checkout scm
-            jobDsl targets: ['jobs/*.groovy'].join('\n') , additionalClasspath: 'target/jenkins2-job-1.0.jar'
+            jobDsl targets: ['jobs/*/*.groovy', 'views/*/*.groovy'].join('\n')
+          }
+          else {
+            println "Not on master or devops-private branch doing nothing."
+          }
         }
       }
     }
+  }
 }

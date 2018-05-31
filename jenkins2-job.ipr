@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AntConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="CheckStyle-IDEA">
     <option name="configuration">
       <map>
@@ -83,7 +87,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jenkins2-job.iml" filepath="$PROJECT_DIR$/jenkins2-job.iml" />
+      <module filepath="$PROJECT_DIR$/jenkins2-job.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
@@ -93,7 +97,32 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/Jenkinsfile">
+        <entry key="$PROJECT_DIR$/../afs-tsys-estatements-ms/src/main/java/uk/co/argos/middleware/afs/tsys/estatements/process/ErrorResponseProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../afs-tsys-estatements-ms/src/main/java/uk/co/argos/middleware/afs/tsys/estatements/process/ErrorResponseProcessorModifies.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../afs-tsys-estatements-ms/src/main/java/uk/co/argos/middleware/afs/tsys/estatements/process/GetStatementResponseProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../afs-tsys-estatements-ms/src/main/java/uk/co/argos/middleware/afs/tsys/estatements/process/TestingDates.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dropwizard-test/src/main/java/uk/co/argos/middleware/kafka/routes/configs/CamelConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dropwizard-test/target/classes/application.yml">
           <value>
             <set />
           </value>
@@ -123,22 +152,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/microservices/projects-list-common.groovy">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/pom.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/groovy-ori/uk/co/argos/middleware/CiCommonBuilder.groovy">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
+        <entry key="$PROJECT_DIR$/../../temp/jenkins/pom.xml">
           <value>
             <set />
           </value>
