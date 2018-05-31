@@ -1,5 +1,4 @@
 import uk.co.argos.middleware.*
-import uk.co.argos.middleware.CiCommonBuilder
 
 String pipeBasePath = 'middleware-jobs-commons'
 
