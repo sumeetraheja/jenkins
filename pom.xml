@@ -10,13 +10,13 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>job-dsl-core</artifactId>
-      <version>1.65</version>
+      <version>1.69</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.codehaus.groovy</groupId>
       <artifactId>groovy-all</artifactId>
-      <version>2.4.15</version>
+      <version>3.0.0-alpha-1</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.groovy</groupId>
