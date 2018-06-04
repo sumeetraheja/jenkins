@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AntConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="CheckStyle-IDEA">
     <option name="configuration">
       <map>
@@ -44,14 +40,6 @@
   </component>
   <component name="JUnitProjectSettings">
     <option name="TEST_RUNNER" value="UI" />
-  </component>
-  <component name="JavacSettings">
-    <option name="DEBUGGING_INFO" value="true" />
-    <option name="GENERATE_NO_WARNINGS" value="false" />
-    <option name="DEPRECATION" value="true" />
-    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
-    <option name="MAXIMUM_HEAP_SIZE" value="128" />
-    <option name="USE_GENERICS_COMPILER" value="false" />
   </component>
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />
@@ -127,6 +115,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/jobs/co.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/jobs/commonAllEnvSeedJob.groovy">
           <value>
             <set />
@@ -152,52 +150,37 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/Jenkinsfile">
+        <entry key="$PROJECT_DIR$/microservices/projects-list-common.groovy">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/jobs/co.groovy">
+        <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/jobs/commonSeedJob.groovy">
+        <entry key="$PROJECT_DIR$/scripts/buildPropertiesDev.sh">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/microservices/projects-list-common.groovy">
+        <entry key="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/AbstractMiddlewareJobBuilder.groovy">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/pom.xml">
+        <entry key="$PROJECT_DIR$/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/scripts/buildPropertiesDev.sh">
+        <entry key="$PROJECT_DIR$/src/main/resources/idea.gdsl">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/src/main/groovy/uk/co/argos/middleware/AbstractMiddlewareJobBuilder.groovy">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/src/main/groovy/uk/co/argos/middleware/CiCommonBuilder.groovy">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/src/main/resources/idea.gdsl">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../temp/jenkins/src/test/resources/idea.gdsl">
+        <entry key="$PROJECT_DIR$/src/test/resources/idea.gdsl">
           <value>
             <set />
           </value>
