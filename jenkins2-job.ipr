@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AntConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="CheckStyle-IDEA">
     <option name="configuration">
       <map>
@@ -75,7 +79,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module filepath="$PROJECT_DIR$/jenkins2-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkins2-job.iml" filepath="$PROJECT_DIR$/jenkins2-job.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
