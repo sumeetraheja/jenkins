@@ -42,14 +42,28 @@ class CommonJobBuilder {
     void createBuildJob(DslFactory dslFactory) {
 
 
-        String gitProjectUrl =   projectName
+
+        String gitProjectUrl =  gitNamespace + projectName + ".git"
 
         //Create maven job
-        dslFactory.pipelineJob(gitProjectUrl) {
+        dslFactory.pipelineJob("${jobName}-build") {
             it.description this.description
+
+            // Manages how long to keep records of the builds.
+            logRotator {
+                numToKeep 10
+            }
+            // Allows a job to check out sources from an SCM provider.
+            scm {
+                git {
+                    branch gitBranch
+                    remote {
+                        url(gitProjectUrl)
+                        credentials('d98fc444-5826-49f9-b1ac-1bca75f8f8fa')
+                    }
+                }
+            }
         }
-
-
     }
 
 
