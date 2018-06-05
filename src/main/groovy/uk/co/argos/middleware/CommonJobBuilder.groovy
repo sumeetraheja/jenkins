@@ -45,7 +45,7 @@ class CommonJobBuilder {
         String gitProjectUrl =   projectName
 
         //Create maven job
-        dslFactory.pipelineJobjob(gitProjectUrl) {
+        dslFactory.pipelineJob(gitProjectUrl) {
             it.description this.description
         }
 
