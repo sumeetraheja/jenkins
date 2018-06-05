@@ -41,8 +41,7 @@ class CommonJobBuilder {
      */
     void createBuildJob(DslFactory dslFactory) {
 
-        //Get sonar properties.
-        String sonarProperties = getSonarProperties(projectName + "-middleware-jenkins")
+
         String gitProjectUrl =  gitNamespace + projectName + ".git"
 
         //Create maven job
